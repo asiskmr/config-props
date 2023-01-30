@@ -1,5 +1,4 @@
-
-loand:
+loans:
     msg: welcome to YashTeck loan bank, This is dev Profile
     build-version: 1
     mailDetails:
