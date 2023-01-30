@@ -8,7 +8,7 @@ accounts:
         subject: Dev test subject
 
     activeBranches: 
-        -Delhi
-        -Noida
-        -Gurugram
-        -Ghaziabad
+        - Delhi
+        - Noida
+        - Gurugram
+        - Ghaziabad
