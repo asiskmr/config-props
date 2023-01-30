@@ -1,0 +1,13 @@
+accounts:
+    msg: welcome to YashTeck bank, This is default properties
+    build-version: 3
+    mailDetails:
+        hostname: defauls-yashtech@test.com
+        port: 9000
+        from: yash@default.com
+        subject: default test subject
+
+    activeBranches: 
+        - Delhi
+        - Noida
+        - Gurugram

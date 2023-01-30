@@ -1,0 +1,14 @@
+cards:
+    msg: this is credit bank, This is dev properties
+    build-version: 1
+    mailDetails:
+        hostname: cred-card@test.com
+        port: 9002
+        from: cards-yash@default.com
+        subject: credit devsubject
+
+    activeBranches: 
+        - Delhi
+        - Noida
+        - Faridabad
+

@@ -1,0 +1,14 @@
+
+loand:
+    msg: welcome to YashTeck loan bank, This is dev Profile
+    build-version: 1
+    mailDetails:
+        hostname: devloans@test.com
+        port: 9004
+        from: dev-yash@default.com
+        subject: Dev test subject
+
+    activeBranches: 
+        - Delhi
+        - Noida
+        - Gurugram
