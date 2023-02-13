@@ -1,5 +1,5 @@
 accounts:
-    msg: {cipher}819b17ba25d5b03ba98a5c6fdd827daa644e25659491f50e06c2fc504027805e8b5d81ab5482c02ff93e270bd0b45a8f19b232062d9357f813d610e3c0877786
+    msg: '{cipher}819b17ba25d5b03ba98a5c6fdd827daa644e25659491f50e06c2fc504027805e8b5d81ab5482c02ff93e270bd0b45a8f19b232062d9357f813d610e3c0877786'
     build-version: 3.1.8
     mailDetails:
         hostname: dev-yashtech@test.com
