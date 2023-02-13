@@ -1,6 +1,6 @@
 accounts:
     msg: welcome to YashTeck bank, This is dev Profile
-    build-version: 38
+    build-version: 3.1.8
     mailDetails:
         hostname: dev-yashtech@test.com
         port: 9000
